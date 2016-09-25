@@ -3,4 +3,10 @@ I always like to look for human stories within datasets. I thought it would be f
 
 Unfortunately, I am not allowed to distribute the data files directly. If you want to run this code, head over to the [Data First catalogue](datafirst.uct.ac.za/dataportal/index.php/catalog) to download it. I have included a sample of the two data files [here](https://github.com/adieyal/nids-stories/blob/master/sample-data/indderived-trimmed.csv) and [here](https://github.com/adieyal/nids-stories/blob/master/sample-data/roster-trimmed.csv).
 
+As a first step, I have been playing around with graphing families. Here is an example of a large family:
+
+<img src="https://github.com/adieyal/nids-stories/raw/master/example.png"/>
+
+The orange circles represent males, the purple females. Dotted lines refer to people who are not resident in the household. Edge relationships that aren't labeled refer to "x is mother of y" or "x is father of "y".
+
 
