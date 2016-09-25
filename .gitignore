@@ -1,0 +1,6 @@
+wave[0-9]
+.env
+\.*.swp
+graphs/
+dot
+.DS_Store
