@@ -2,10 +2,16 @@ import pandas as pd
 from collections import defaultdict
 import pygraphviz as pgv
 from datetime import datetime
+import os
 
 import networkx as nx
 from networkx.drawing.nx_pydot import write_dot
 from networkx.drawing.nx_agraph import to_agraph
+
+if not os.path.exists("graphs"):
+    os.mkdir("graphs")
+if not os.path.exists("dot"):
+    os.mkdir("dot")
 
 prefix = "w1"
 roster_file = "wave1/HouseholdRoster_W1_Anon_V6.1.csv"
