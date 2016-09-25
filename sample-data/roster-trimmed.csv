@@ -1,0 +1,10 @@
+,w1_hhid,pid,w1_r_csm,w1_r_phase,w1_r_pres,w1_r_relhead,w1_r_gen,w1_r_dob_m,w1_r_dob_y,w1_r_edu,w1_r_edu_o,w1_r_marstt,w1_r_parhpid,w1_r_fthpid,w1_r_mthpid,w1_r_res,w1_r_absm,w1_r_absexp,w1_r_absexp_o,w1_r_absprov,w1_r_absacc,w1_r_absacc_o
+0,101012,314585,Yes,Phase One,Resident,Resident Head,Female,Jul,1956,Grade 1/Sub A/Class 1,,Widow/Widower,"No, spouse or partner is deceased",Deceased,Deceased,Yes,Less than 1 Month/None,,,,,
+1,101013,314544,Yes,Phase One,Resident,Resident Head,Male,Apr,1962,No Schooling,,Married,314550,Deceased,Absent,Yes,Less than 1 Month/None,,,,,
+2,101013,314550,Yes,Phase One,Resident,Husband/Wife/Partner,Female,Jun,1975,No Schooling,,Married,314544,Absent,Absent,Yes,Less than 1 Month/None,,,,,
+3,101013,406295,Yes,Phase One,Resident,Son/Daughter,Female,Oct,1998,Grade 2/Sub B/Class 2,,Never Married,"No, no spouse or partner",314544,314550.0,Yes,Less than 1 Month/None,,,,,
+4,101013,406296,Yes,Phase One,Resident,Son/Daughter,Male,Sep,1994,Grade 5/Std. 3,,Never Married,"No, no spouse or partner",314544,314550.0,Yes,Less than 1 Month/None,,,,,
+5,101013,406297,Yes,Phase One,Resident,Son/Daughter,Female,Sep,1996,Grade 3/Std. 1,,Never Married,"No, no spouse or partner",314544,314550.0,Yes,Less than 1 Month/None,,,,,
+6,101014,301454,Yes,Phase One,Resident,Son/Daughter,Male,Sep,1992,Grade 3/Std. 1,,Never Married,"No, no spouse or partner",314582,314580.0,Yes,Less than 1 Month/None,,,,,
+7,101014,314575,Yes,Phase One,Resident,Son/Daughter,Male,Mar,1983,Grade 4/Std. 2,,Never Married,"No, no spouse or partner",314582,314580.0,Yes,Less than 1 Month/None,,,,,
+8,101014,314580,Yes,Phase One,Resident,Husband/Wife/Partner,Female,Jun,1947,No Schooling,,Married,314582,Deceased,Deceased,Yes,Less than 1 Month/None,,,,,
